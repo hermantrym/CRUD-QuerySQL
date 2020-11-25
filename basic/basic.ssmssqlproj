@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="basic">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="K2H09N73J3:K2H09N73J3\academic">
+          <Created>2020-11-22T09:49:37.2197747+07:00</Created>
+          <Type>SQL</Type>
+          <Server>K2H09N73J3</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="createNewDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>createNewDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="createTableFirst.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>createTableFirst.sql</FullPath>
+        </FileNode>
+        <FileNode Name="createTableSecond.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>createTableSecond.sql</FullPath>
+        </FileNode>
+        <FileNode Name="deleteTableData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>deleteTableData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="insertFirst.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>insertFirst.sql</FullPath>
+        </FileNode>
+        <FileNode Name="insertSecond.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>insertSecond.sql</FullPath>
+        </FileNode>
+        <FileNode Name="truncate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>truncate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="updateSecond.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:K2H09N73J3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>K2H09N73J3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>updateSecond.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
